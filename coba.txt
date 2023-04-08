@@ -1,0 +1,6 @@
+Skills
+-JavaScript
+-HTML
+-CSS
+-Bootstrap
+-NodeJS
