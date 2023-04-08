@@ -1,0 +1,4 @@
+hallo
+
+-saya ingin membuat website menggunakan javascript
+-saya ingin bekerja menjadi fullstack web developer
