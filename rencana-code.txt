@@ -1,3 +1,6 @@
 buat project
 -company profile
 -landing page
+
+server side
+-nodeJS
