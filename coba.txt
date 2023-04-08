@@ -3,4 +3,4 @@ Skills
 -HTML
 -CSS
 -Bootstrap
--NodeJS
+-NodeJS (Hapi Framework)
